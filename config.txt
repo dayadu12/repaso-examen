@@ -1,4 +1,4 @@
 proyecto=PortalAula
-funciones=base
+funciones=base,avisos
 idioma=es
 
